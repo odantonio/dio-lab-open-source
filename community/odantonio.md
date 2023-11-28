@@ -32,6 +32,8 @@ ___
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odantonio)
 [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/Obdantonio)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://www.discord.com/in/mantys)
+![DataCamp](https://img.shields.io/badge/Datacamp-000?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
+![Udacity](https://img.shields.io/badge/Udacity-000?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 
 ### Habilidades | SKills
 
@@ -52,8 +54,10 @@ ___
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Go](<https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=005C84>)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-000?style=for-the-badge&logo=azure-functions&logoColor=0062AD)
 
 ### GitHub Stats
 
